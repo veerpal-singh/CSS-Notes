@@ -42,6 +42,8 @@
     - Replaced Inline Element
     - Non Replaced Inline Element
 
+---
+
 5. **Units**
     - px
     - %
